@@ -1,0 +1,14 @@
+# Arquivos compilados pelo Maven
+target/
+
+# Banco de dados local SQLite
+*.db
+
+# Configurações de IDE (IntelliJ, Eclipse, VS Code)
+.vscode/
+.idea/
+*.iml
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
